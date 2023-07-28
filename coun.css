@@ -1,0 +1,21 @@
+.para {
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.head {
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn {
+    background-color: rgb(23, 22, 22);
+    color: rgb(204, 152, 21);
+    font-size: 50px;
+    font-weight: 800;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    border-width: 10px;
+}
